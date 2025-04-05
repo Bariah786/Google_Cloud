@@ -1,0 +1,10 @@
+functions-framework==3.*
+pandas
+BeautifulSoup4
+requests
+sqlalchemy
+pymysql
+google-cloud-storage
+dotenv
+datetime
+lat-lon-parser
