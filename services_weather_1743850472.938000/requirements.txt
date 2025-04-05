@@ -1,0 +1,8 @@
+functions-framework==3.*
+pandas
+requests
+sqlalchemy
+pymysql
+google-cloud-storage
+dotenv
+datetime
