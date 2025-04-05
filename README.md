@@ -34,7 +34,7 @@ This repository contains Google Cloud Functions to automate the collection of fl
   - `requests` for making API calls.
   - `BeautifulSoup` for web scraping.
   - `pandas` for data manipulation and SQL integration.
-  - `sqlalchemy` and `pymysql` for SQL database interaction.
+  - `sqlalchemy` and `pymysql` for SQL database interaction. etc
 
 ## Core Functions:
 
