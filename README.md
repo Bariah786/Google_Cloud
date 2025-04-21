@@ -1,6 +1,8 @@
 # Google Cloud
 
-This repository contains Google Cloud Functions to automate the collection of flight, weather, population, and airport data. It integrates data from external APIs and web scraping into a MySQL database hosted on Google Cloud SQL, with scheduled updates via Google Cloud Scheduler.
+This repository is the second part of a larger project that began with data collection and SQL setup (Creating a database using Webscraping and API). After gathering and storing raw data locally using web scraping and APIs, this phase focuses on automating and scaling the data pipeline using Google Cloud.  
+
+It includes Cloud Functions for ELT (Extract, Load, Transform) tasks, triggered via Cloud Scheduler, with data stored in Google Cloud SQL.
 
 ## Key Features:
 
